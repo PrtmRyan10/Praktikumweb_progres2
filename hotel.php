@@ -63,7 +63,7 @@
                     </a>
                 </li>
                 <li class="nav-item" data-toggle="tooltip" data-placement="right" title="TICKET">
-                    <a class="nav-link" href="index.html">
+                    <a class="nav-link" href="tiket.php">
                         <i class="fa fa-ticket"></i>
                         <span class="nav-link-text">TICKET</span>
                     </a>
